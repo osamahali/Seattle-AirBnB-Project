@@ -18,9 +18,6 @@ Business questions we aim to answer:
 
 ----------------------------------------
 
-The analysis divided into many parts, First one is the cleaning step, then explor the three dartasets, this where EDA perform. Some of the analysis where used in writing the blogs.
-
-
 
 
 
