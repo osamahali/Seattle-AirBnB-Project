@@ -18,6 +18,9 @@ Business questions we aim to answer:
 
 ----------------------------------------
 
+please visit the link below for the blog 
+
+https://medium.com/@osamah.alzahr/get-your-property-ready-for-tourist-visit-seattle-airbnb-2e93cb5350a3
 
 
 
