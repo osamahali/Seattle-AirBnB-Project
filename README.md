@@ -16,6 +16,11 @@ Business questions we aim to answer:
 - How much revenue do Airbnb hosts make?
 - Can we explore some of the worst reviews for additional insights?
 
+----------------------------------------
+
+The analysis divided into many parts, First one is the cleaning step, then explor the three dartasets, this where EDA perform. Some of the analysis where used in writing the blogs.
+
+
 
 
 
