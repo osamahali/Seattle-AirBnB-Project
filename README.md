@@ -11,8 +11,8 @@ it might help travelers suggest the best area or neighborhood based on the budge
 
 Business questions we aim to answer:
 
-- How homeownser manage thier propert for airBnB? by understand the monthly occupancy ratio, the priciest neighborhoods, Seasonality, trends
-- does you property type in the most demand amounf travelers?
+- How homeowner manage their property for airBnB? by understand the monthly occupancy ratio, the priciest neighborhoods, Seasonality, trends
+- Does you property type in the most demand among travelers?
 - When is the best time to rent?
 - How much revenue do Airbnb hosts make?
 - Can we explore some of the worst reviews for additional insights?
