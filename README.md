@@ -1,6 +1,5 @@
 # Seattle-AirBnB-Project
 
-1. BUSINESS UNDERSTANDING¶
 
 The Dataset contains data about AirBnB listings in Seattle, reviews, as well as the calendar  for each of these listings. The pourpos is to answer these questions which might help property owners to manage thier listing in terms of maintancice and any house importvmentm hence maximizing thier return, as well as rentail to find the best distnations.
 
